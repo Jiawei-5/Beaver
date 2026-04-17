@@ -1,0 +1,1 @@
+Place stlImport + 3DMesh_to_Geometry *.pyc files in this folder.
